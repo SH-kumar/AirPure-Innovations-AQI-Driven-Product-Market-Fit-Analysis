@@ -7,7 +7,7 @@ This repository documents the complete **primary & secondary data analysis, prod
 
 ---
 
-## 📦 Deliverables  
+## 📦 Deliverables
 
 - ✅ Full Presentation Video  
 - ✅ Interactive Power BI AQI Dashboard  
