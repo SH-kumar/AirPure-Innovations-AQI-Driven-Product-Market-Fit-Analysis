@@ -9,9 +9,7 @@ This repository documents the complete **primary & secondary data analysis, prod
 
 ## 📦 Deliverables
 
-- ✅ Full Presentation Video  
-- ✅ Interactive Power BI AQI Dashboard  
-- ✅ Product Requirements & Market Strategy Document  
+- ✅ Interactive Power BI AQI Dashboard  https://app.powerbi.com/view?r=eyJrIjoiYjZjZWM5MzgtMTVhNS00YTQ1LWIxMTEtZjExMGM2NjU1Nzk3IiwidCI6IjI2NDc1YzM0LWVjZGItNGFkNS1hZDA4LTZlMjI0Njc3YTA2NSJ9
 
 ---
 
